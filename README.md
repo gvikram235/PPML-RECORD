@@ -1,21 +1,22 @@
-PPML Experiments
+## PPML Experiments
 
-1. Fundamentals with Numpy, Pandas, Matplotlib
 
-2. Mathematical Operations: Euclidean distance, Dot product, Linear equation
+**1. Fundamentals with** *Numpy, Pandas, Matplotlib*
 
-3. Activation Functions: Sigmoid function, Tanh function
+**2. Mathematical Operations:** *Euclidean distance*, *Dot product*, *Linear equation*
 
-4. Gradient Descent: gradient descent algorithm
+**3. Activation Functions:** *Sigmoid function*, *Tanh function*
 
-5. Vehicle Performance Analysis (using Pandas):
+**4. Gradient Descent:** *gradient descent algorithm*
 
-6. Data Wrangling:
+**5. Vehicle Performance Analysis (using Pandas):**
 
-7. Linear Regression:
+**6. Data Wrangling:**
 
-8. Logistic Regression:
+**7. Linear Regression:**
 
-9. Linear Regression with Keras:
+**8. Logistic Regression:**
 
-10. Support Vector Regression (SVR):
+**9. Linear Regression with Keras:**
+
+**10. Support Vector Regression (SVR):**
